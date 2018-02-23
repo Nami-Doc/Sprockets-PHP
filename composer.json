@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "mthaml/mthaml": "1.3.0",
-        "leafo/lessphp": "0.4.0",
-        "richthegeek/phpsass": "2012-06-27"
+        "mthaml/mthaml": "@stable",
+        "leafo/lessphp": "@stable",
+        "richthegeek/phpsass": "@stable"
     }
 }
